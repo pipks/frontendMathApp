@@ -1,0 +1,110 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Math Master",
+  "@appTitle": {
+    "description": "Application title"
+  },
+
+  "welcome": "Welcome!",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Get started button"
+  },
+
+  "moduleAddition": "Addition",
+  "@moduleAddition": {
+    "description": "Addition module name"
+  },
+
+  "moduleSubtraction": "Subtraction",
+  "@moduleSubtraction": {
+    "description": "Subtraction module name"
+  },
+
+  "moduleMultiplication": "Multiplication",
+  "@moduleMultiplication": {
+    "description": "Multiplication module name"
+  },
+
+  "moduleDivision": "Division",
+  "@moduleDivision": {
+    "description": "Division module name"
+  },
+
+  "practiceMode": "Practice Mode",
+  "@practiceMode": {
+    "description": "Practice mode button"
+  },
+
+  "timedChallenge": "Timed Challenge",
+  "@timedChallenge": {
+    "description": "Timed challenge button"
+  },
+
+  "correctAnswer": "Correct! 🎉",
+  "@correctAnswer": {
+    "description": "Message when answer is correct"
+  },
+
+  "wrongAnswer": "Oops! Try again",
+  "@wrongAnswer": {
+    "description": "Message when answer is wrong"
+  },
+
+  "correctAnswerWas": "The correct answer was: {answer}",
+  "@correctAnswerWas": {
+    "description": "Shows the correct answer",
+    "placeholders": {
+      "answer": {
+        "type": "int",
+        "example": "42"
+      }
+    }
+  },
+
+  "score": "Score: {score}",
+  "@score": {
+    "description": "Current score",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "10"
+      }
+    }
+  },
+
+  "commonOk": "OK",
+  "@commonOk": {
+    "description": "OK button"
+  },
+
+  "commonCancel": "Cancel",
+  "@commonCancel": {
+    "description": "Cancel button"
+  },
+
+  "commonSave": "Save",
+  "@commonSave": {
+    "description": "Save button"
+  },
+
+  "commonContinue": "Continue",
+  "@commonContinue": {
+    "description": "Continue button"
+  },
+
+  "commonBack": "Back",
+  "@commonBack": {
+    "description": "Back button"
+  },
+
+  "selectModule": "Select a Module",
+  "@selectModule": {
+    "description": "Home screen subtitle"
+  }
+}

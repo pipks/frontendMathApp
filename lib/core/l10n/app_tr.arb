@@ -1,0 +1,29 @@
+{
+  "@@locale": "tr",
+
+  "appTitle": "Matematik Ustası",
+  "welcome": "Hoş Geldin!",
+  "getStarted": "Başla",
+
+  "moduleAddition": "Toplama",
+  "moduleSubtraction": "Çıkarma",
+  "moduleMultiplication": "Çarpma",
+  "moduleDivision": "Bölme",
+
+  "practiceMode": "Pratik Modu",
+  "timedChallenge": "Süre ile Yarışma",
+
+  "correctAnswer": "Doğru! 🎉",
+  "wrongAnswer": "Hata! Tekrar dene",
+  "correctAnswerWas": "Doğru cevap: {answer}",
+
+  "score": "Puan: {score}",
+
+  "commonOk": "Tamam",
+  "commonCancel": "İptal",
+  "commonSave": "Kaydet",
+  "commonContinue": "Devam Et",
+  "commonBack": "Geri",
+
+  "selectModule": "Bir Modül Seç"
+}
